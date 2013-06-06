@@ -1,0 +1,23 @@
+Latihan Sarmag
+==============
+
+Repositori latihan untuk anggota _Back End_ dalam proyek Nusantarapedia.
+
+## Anggota
+
+- Junior Lie (Koordinator)
+- Angellica Octavianzy Sabrina
+- Anneke Annassia Putri Siswadi
+- Arum Kusuma Wardani
+- Dion Edo Fananie
+- Kega Kurniawan
+- Mahendra Sunt Servanda
+- Mahesa Sunt Servanda
+- Marvin Mitchell Zwakenberg
+- Muhammad Patria
+- Nur Farida Irmawati
+
+## Kredit
+
+Sumber kode program di bawah [lisensi MIT](http://mit-license.org) dan konten di bawah [lisensi Creative Commons BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0).
+
