@@ -5,7 +5,7 @@ Repositori latihan untuk anggota _Back End_ dalam proyek Nusantarapedia.
 
 ## Anggota
 
-- Junior Lie Keren (Koordinator)
+- Junior Lie (Koordinator)
 - Angellica Octavianzy Sabrina
 - Anneke Annassia Putri Siswadi
 - Arum Kusuma Wardani
