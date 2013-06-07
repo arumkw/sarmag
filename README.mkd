@@ -7,16 +7,20 @@ Repositori latihan untuk anggota _Back End_ dalam proyek Nusantarapedia.
 
 ## Anggota
 
+### Kode
+
 - Junior Lie (Koordinator)
-- Angellica Octavianzy Sabrina
-- Anneke Annassia Putri Siswadi
-- Arum Kusuma Wardani
-- Dion Edo Fananie
-- Kega Kurniawan
 - Mahendra Sunt Servanda
 - Mahesa Sunt Servanda
 - Marvin Mitchell Zwakenberg
 - Muhammad Patria
+
+### Data
+
+- Angellica Octavianzy Sabrina
+- Anneke Annassia Putri Siswadi
+- Arum Kusuma Wardani
+- Dion Edo Fananie
 - Nur Farida Irmawati
 
 ## Kredit
