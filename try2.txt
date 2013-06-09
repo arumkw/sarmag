@@ -1,3 +1,4 @@
-TRY
+Try
 ===
-My first contribute in learning github.
+
+My first contribution in colloboration development through learning Git and GitHub.
