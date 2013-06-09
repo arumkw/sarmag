@@ -1,5 +1,6 @@
-# GitHUb Trial Version #
-#### SevenEleven 9 June 2013 ####
+# GitHub Trial Version
+
+## 7-Eleven 9 June 2013
 
 - Installing GitHub
 - Installing Markdown
