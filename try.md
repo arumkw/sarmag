@@ -5,4 +5,3 @@
 - Installing Markdown
 - Sign Up in [http://wordpress.com](http://wordpress.com)
 - Sign Up in [http://gravatar.com](http://gravatar.com)
-- ![Desert](desert.jpg)
