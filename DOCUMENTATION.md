@@ -1,4 +1,4 @@
 Dokumentasi
 ===========
 
-Cara kerja program yang ada..
+Cara kerja program yang ada.
