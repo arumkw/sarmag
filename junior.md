@@ -1,6 +1,6 @@
-Junior Gay
+Junior Pangeran
 ==========
 
 	Junior
 	Adalah
-	Gay
+	Keren
